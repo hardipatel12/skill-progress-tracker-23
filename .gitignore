@@ -1,0 +1,4 @@
+﻿skills-api-23/node_modules/
+skills-frontend-23/node_modules/
+*.log
+.env
